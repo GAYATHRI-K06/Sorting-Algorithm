@@ -76,8 +76,9 @@ print(insertion_sort(arr))
 ```
 
 ## Output:
-![Alt text](<Screenshot 2023-12-25 091201.png>)
-![Alt text](<Screenshot 2023-12-25 091226.png>)
+![Screenshot 2023-12-25 091201](https://github.com/GAYATHRI-K06/Sorting-Algorithm/assets/145742742/8bf65a5a-1de2-4565-b763-4ac9e5a8a74a)
+![Screenshot 2023-12-25 091226](https://github.com/GAYATHRI-K06/Sorting-Algorithm/assets/145742742/92d76a0c-75e5-4329-87c7-268e54cad4a9)
+
 
 ## Result:
 Thus the program is written to perform selection sort and insertion sort using python programming.
